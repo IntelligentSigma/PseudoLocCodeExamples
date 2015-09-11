@@ -1,2 +1,13 @@
 # PseudoLocCodeExamples
 You may get these to run, but best to use them as examples of code you can use to create PseudoLoc for your I18N testing.
+
+
+We have a CoffeeScript example that was used with NPM ...
+
+We have JAVA examples that were used as a MAVEN PlugIn and as StandAlone ...
+
+We have a JavaScript example that is similar to the CoffeeScript and Python Examples ...
+
+We have a Python example which is the original that all others were created from ...
+
+Feel Free to use the code in part or in whole. 
